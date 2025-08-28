@@ -3,13 +3,7 @@
 A **creative travel diary app** built with SwiftUI, showcasing UI/UX design skills and Swift development fundamentals.  
 Keep track of your trips, customize cards with colors, and enjoy a sleek, modern interface.  
 
-# Travel Diary App
-
-Une mini application SwiftUI pour noter et visualiser ses voyages ✈️
-
-![Aperçu de l'app](docs/TravelDiaryApp.png)
-
-
+![Aperçu de l'app](https://i.imgur.com/TB55qpw.png)
 
 ---
 
